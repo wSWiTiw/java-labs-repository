@@ -1,0 +1,20 @@
+# Java / build artifacts
+*.class
+out/
+build/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# Logs and generated runtime files
+*.log
+exception_log.txt
+destination.txt
+output.txt
+input.txt
