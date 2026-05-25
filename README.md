@@ -65,4 +65,4 @@ java -cp out JavaHelloWorldProgram
 
 ---
 
-Автор: Дмитрий Сергеев
+Автор: Сергей Сергеев
